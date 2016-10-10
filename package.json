@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "restify": "^4.1.1"
+  }
+}
